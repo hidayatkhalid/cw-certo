@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', 'Inter',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+.sprite__hover {
+  opacity: 1;
+  max-width: initial;
+}
+
+
+.sprite__hover:hover {
+  animation-duration: 1s;
+  animation-fill-mode: both;
+  animation-timing-function: cubic-bezier(0.75, 0, 0.25, 1);
+}
+
+
+
+/* 
+@keyframes moveSprite {
+  from {
+    transform: translateX(0);
+  }
+
+  to {
+    transform: translateX(-3388px);
+  }
+}
+
+.sprite:hover {
+  animation: moveSprite 0.5s forwards;
+  animation-timing-function: cubic-bezier(0.75, 0, 0.25, 1);
+} */
+
+@layer utilities {
+  .font-nav {
+    font-family: 'Inter', sans-serif;
+  }
+
+  .font-inter {
+    font-family: 'Inter', sans-serif;
+  }
+
+  .font-xl {
+    font-size: x-large;
+  }
+
+  .font-l {
+    font-size: larger;
+  }
+
+  .font-m {
+    font-size: medium;
+  }
+}

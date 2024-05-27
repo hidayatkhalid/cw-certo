@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.59137015.css",
+    "main.js": "/static/js/main.5476d886.js",
+    "static/js/453.5faf7afe.chunk.js": "/static/js/453.5faf7afe.chunk.js",
+    "static/media/Ellipse 2.png": "/static/media/Ellipse 2.213a2e0d36eed496a160.png",
+    "static/media/android-dashboard-certo-2.png": "/static/media/android-dashboard-certo-2.5679c8ca327fe007fd21.png",
+    "static/media/triangle.svg": "/static/media/triangle.40931d446b011a061811d4263e74c543.svg",
+    "index.html": "/index.html",
+    "static/media/youtube-rounded-svgrepo-com.svg": "/static/media/youtube-rounded-svgrepo-com.09ee0f8e4e91eaceae0169b0f0b78a16.svg",
+    "static/media/facebook-square-social-logo-svgrepo-com.svg": "/static/media/facebook-square-social-logo-svgrepo-com.ce7e4cfba5264d1f74fd19474ba178ff.svg",
+    "static/media/arrow.svg": "/static/media/arrow.f79ab0f29dd1560ae8c31a62aab34a36.svg",
+    "main.59137015.css.map": "/static/css/main.59137015.css.map",
+    "main.5476d886.js.map": "/static/js/main.5476d886.js.map",
+    "453.5faf7afe.chunk.js.map": "/static/js/453.5faf7afe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59137015.css",
+    "static/js/main.5476d886.js"
+  ]
+}
